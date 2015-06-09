@@ -1,0 +1,46 @@
+body {
+  background: #fafafa;
+  font-family: HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: 300;
+  color: #333;
+  margin: 0;
+  padding: 0
+}
+
+body > * {
+  max-width: 1000px;
+  margin: 0 auto;
+  overflow: auto;
+  padding: 0 10px;
+}
+
+.invert {
+  background-color: #333;
+  color: #fafafa;
+}
+
+.block {
+  padding: 10px;
+}
+
+ul.spaced li {
+  margin: 10px 0;
+}
+
+header {
+  border-bottom: 2px solid #999;
+}
+
+header svg {
+  width: 100px;
+}
+
+header h1 {
+  display: inline-block;
+  vertical-align: top;
+  margin: 33px 0;
+}
+
+footer {
+  border-top: 2px solid #999;
+}
