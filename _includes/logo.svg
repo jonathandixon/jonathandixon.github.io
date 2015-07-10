@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewbox="0 0 35 36" enable-background="new 0 0 35 36" preserveAspectRatio="xMinYMin meet">
+	<!-- Beard -->
+	<path fill="#B40" stroke="#000" d="M5 10 L5 30 L15 35 L20 35 L30 30 L30 10 L30 15 L28 15 L28 21 L22 25 L13 25 L7 21 L7 15 L5 15" />
+	<!-- Dome -->
+	<path fill="none" stroke="#000" d="M30 10 A3 2 0 0 0 5 10" />
+	<!-- Mouth -->
+	<path fill="none" stroke="#000" d="M13 29 L22 29" />
+	<!-- Eyes -->
+	<path fill="none" stroke="#000" d="M12 11 L9 14 L12 17 M23 11 L26 14 L23 17" />
+	<!-- Nose -->
+	<path fill="none" stroke="#000" d="M18 14 L15 22" />
+</svg>
